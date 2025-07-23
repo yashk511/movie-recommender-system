@@ -28,3 +28,19 @@ This project requires a [TMDb (The Movie Database)](https://www.themoviedb.org/)
 ## 📁 Dataset Used
 
 This project is based on the TMDb 5000 Movie Dataset from Kaggle.
+
+---
+
+## 🖼️ Sample Output
+
+### 🔍 Movie Selection
+
+![Select Movie](select_movie.png)
+
+### 🎥 Recommendations
+
+![Recommendation 1](output_1.png)
+
+![Recommendation 2](output_2.png)
+
+![Recommendation 3](output_3.png)
