@@ -22,6 +22,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🔑 TMDb API Key Setup
 
 This project requires a [TMDb (The Movie Database)](https://www.themoviedb.org/) API key to fetch movie posters, ratings, and overviews.
+generate the api key, put it in apikey.txt to run the project (example shown in apikey.example.txt)
 
 ---
 
@@ -32,6 +33,8 @@ This project is based on the TMDb 5000 Movie Dataset from Kaggle.
 ---
 
 ## 🖼️ Sample Output
+
+streamlit run app.py  (terminal commands to run streamlit code)
 
 ### 🔍 Movie Selection
 
