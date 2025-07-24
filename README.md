@@ -49,8 +49,7 @@ To run this project:
 
 Once generated, you can run the app using:
 
-```bash 
-streamlit run app.py
+    -streamlit run app.py (in your bash)
 
 ### 🔍 Movie Selection
 
@@ -65,3 +64,4 @@ streamlit run app.py
 ![Recommendation 3](output_3.png)
 
 and more ..... 
+
