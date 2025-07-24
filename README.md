@@ -34,7 +34,23 @@ This project is based on the TMDb 5000 Movie Dataset from Kaggle.
 
 ## 🖼️ Sample Output
 
-streamlit run app.py  (terminal commands to run streamlit code)
+## 🔁 Rebuilding `.pkl` Files
+
+Due to GitHub's file size limit, `similarity.pkl` is not included in the repository.
+
+To run this project:
+
+1. Ensure `tmdb_5000_movies.csv` and `tmdb_5000_credits.csv` are in the project root.
+2. Open `build_similarity_matrix.ipynb`
+3. Run all cells to generate:
+
+   - `movies.pkl` (included in the repo)
+   - `similarity.pkl` (required to run the app)
+
+Once generated, you can run the app using:
+
+```bash
+streamlit run app.py
 
 ### 🔍 Movie Selection
 
