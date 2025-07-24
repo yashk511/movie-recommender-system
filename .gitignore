@@ -1,5 +1,3 @@
 apikey.txt
 __pycache__/
-tmdb_5000_movies.csv
-tmdb_5000_credits.csv
 similarity.pkl
