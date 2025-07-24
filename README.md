@@ -49,7 +49,7 @@ To run this project:
 
 Once generated, you can run the app using:
 
-```bash
+```bash 
 streamlit run app.py
 
 ### 🔍 Movie Selection
